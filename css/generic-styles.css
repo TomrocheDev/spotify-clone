@@ -1,0 +1,44 @@
+:root {
+    --white: rgba(255, 255, 255, 0.9);
+    --inactive: rgba(255, 255, 255, 0.7);
+    --fw-fat: 500;
+    --fw-normal: 300;
+
+    --font-small: 14px;
+    --font-med: 15px;
+    --font-lg: 20px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    padding: 0.5rem;
+    color: var(--inactive);
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 26.3rem 1fr;
+    grid-template-rows: 7rem 1fr 4.5rem;
+    grid-template-areas:
+        "topnav main"
+        "bottomnav main"
+        "player player";
+    grid-gap: 0.5rem;
+}
+
+.main-grid-component {
+    background-color: #121212;
+    padding: 1.2rem 1.8rem;
+    border-radius: 8px;
+}

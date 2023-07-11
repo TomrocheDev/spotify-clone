@@ -1,0 +1,36 @@
+/*! FLEXBOXES */
+.row-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-between-centered {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flex-absolute-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*! BUTTONS */
+.button {
+    transition: 300ms ease;
+}
+
+.button:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.hover-light:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}

@@ -1,0 +1,18 @@
+#top-navigation {
+    grid-area: topnav;
+    gap: 1.6rem;
+}
+
+.top-navigation-button {
+    width: 30%;
+}
+
+.top-navigation-button i {
+    font-size: var(--font-lg);
+}
+
+.top-navigation-button span {
+    margin-left: 1rem;
+    font-weight: var(--fw-fat);
+    font-size: var(--font-med);
+}

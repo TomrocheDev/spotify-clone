@@ -1,0 +1,28 @@
+#bottom-navigation {
+    grid-area: bottomnav;
+}
+
+#bottom-navigation-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#playlist-library i {
+    font-size: var(--font-lg);
+}
+
+#playlist-library span {
+    margin-left: 0.7rem;
+    font-size: var(--font-small);
+}
+
+#playlist-navigation-buttons {
+    gap: 1rem;
+}
+
+#playlist-navigation-buttons i {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}

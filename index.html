@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- stylesheets -->
+        <link rel="stylesheet" href="css/generic-styles.css" />
+        <link rel="stylesheet" href="css/top-navigation.css" />
+        <link rel="stylesheet" href="css/bottom-navigation.css" />
+        <link rel="stylesheet" href="css/main-content.css" />
+        <link rel="stylesheet" href="css/music-player.css" />
+        <link rel="stylesheet" href="css/custom-framework.css" />
+
+        <!-- fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap"
+            rel="stylesheet" />
+
+        <!-- fontawesome -->
+        <script src="https://kit.fontawesome.com/00e8ed60ea.js" crossorigin="anonymous"></script>
+
+        <title>Spotify Clone | Tom Roche</title>
+    </head>
+    <body>
+        <main>
+            <div class="main-grid-component flex-col" id="top-navigation">
+                <div class="top-navigation-button button">
+                    <i class="fa-solid fa-house"></i>
+                    <span>Home</span>
+                </div>
+                <div class="top-navigation-button button">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <span>Zoeken</span>
+                </div>
+            </div>
+
+            <div class="main-grid-component" id="bottom-navigation">
+                <div id="bottom-navigation-header">
+                    <div class="button" id="playlist-library">
+                        <i class="fa-solid fa-layer-group"></i>
+                        <span>Bibliotheek</span>
+                    </div>
+                    <div class="flex-between-centered" id="playlist-navigation-buttons">
+                        <i
+                            class="fa-solid fa-plus button hover-light button flex-absolute-center"></i>
+                        <i
+                            class="fa-solid fa-arrow-right hover-light button flex-absolute-center"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main-grid-component" id="main-content"></div>
+
+            <div id="music-player"></div>
+        </main>
+    </body>
+</html>
