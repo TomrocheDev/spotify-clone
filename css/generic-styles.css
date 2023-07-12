@@ -1,9 +1,10 @@
 :root {
     --white: rgba(255, 255, 255, 0.9);
-    --inactive: rgba(255, 255, 255, 0.7);
+    --inactive: rgba(255, 255, 255, 0.5);
     --fw-fat: 500;
     --fw-normal: 300;
 
+    --font-xs-small: 13px;
     --font-small: 14px;
     --font-med: 15px;
     --font-lg: 20px;
@@ -39,6 +40,11 @@ main {
 
 .main-grid-component {
     background-color: #121212;
-    padding: 1.2rem 1.8rem;
+    padding: 1.2rem 1.6rem;
     border-radius: 8px;
+}
+
+#playlist-navigation {
+    display: flex;
+    justify-content: space-between;
 }
