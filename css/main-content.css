@@ -1,13 +1,13 @@
 #main-content {
     grid-area: main;
     padding: 1rem 1.5rem;
-    background-color: rgb(153, 33, 33);
 }
 
 .main-header-buttons {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 2.3rem;
 }
 
 .back-and-forward-buttons,
@@ -45,4 +45,33 @@
 #download-app-button:hover,
 #profile-button:hover {
     transform: scale(1.04);
+}
+
+#header-playlist-details {
+    display: flex;
+    align-items: end;
+    gap: 1.5rem;
+    color: var(--white);
+}
+
+#header-playlist-titles {
+    padding: 0.5rem 0;
+}
+
+#playlist-image-container {
+    width: 15rem;
+    height: 15rem;
+}
+
+#playlist-image-container img {
+    object-fit: cover;
+    width: 100%;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+#playlist-duration {
+    font-size: var(--font-xs-small);
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
