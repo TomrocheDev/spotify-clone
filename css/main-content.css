@@ -1,3 +1,48 @@
 #main-content {
     grid-area: main;
+    padding: 1rem 1.5rem;
+    background-color: rgb(153, 33, 33);
+}
+
+.main-header-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.back-and-forward-buttons,
+.download-and-profile-buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.back-and-forward-buttons i {
+    width: 33px;
+    height: 33px;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.back-and-forward-buttons i:hover {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.download-and-profile-buttons span {
+    padding: 0.5rem 0.6rem;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    font-size: var(--font-small);
+    color: var(--white);
+}
+
+.download-and-profile-buttons span i:first-of-type {
+    margin-right: 0.3rem;
+}
+
+#download-app-button:hover,
+#profile-button:hover {
+    transform: scale(1.04);
 }
