@@ -142,7 +142,10 @@
                 </div>
             </div>
 
-            <div class="main-grid-component" id="main-content">
+            <div
+                class="main-grid-component"
+                id="main-content"
+                style="background: linear-gradient(180deg, rgb(21, 147, 185), #121212 35rem)">
                 <div id="main-header-section">
                     <div class="main-header-buttons">
                         <div class="back-and-forward-buttons">
@@ -184,10 +187,36 @@
                             </div>
                         </div>
                     </div>
+                    <div class="header-play-and-settings">
+                        <div id="header-play-button">
+                            <i class="fa-solid fa-play"></i>
+                        </div>
+                        <div id="header-settings-button">
+                            <i class="fa-solid fa-ellipsis button"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="playlist-container">
+                    <table id="playlist-table">
+                        <thead>
+                            <th style="width: 2%; padding-left: 1rem">#</th>
+                            <th style="width: 40%; padding-left: 10px">Titel</th>
+                            <th style="width: 25%">Album</th>
+                            <th>Datum toegevoegd</th>
+                            <th style="padding-right: 1.5rem">
+                                <i class="fa-regular fa-clock"></i>
+                            </th>
+                        </thead>
+                        <tbody id="playlist-tracklist"></tbody>
+                    </table>
                 </div>
             </div>
 
             <div id="music-player"></div>
         </main>
+
+        <!-- scripts -->
+        <script src="javascript/data-handling.js"></script>
     </body>
 </html>

@@ -1,0 +1,48 @@
+[
+    {
+        "Coding": [
+            {
+                "title": "India",
+                "artist": "EarthLife",
+                "album": "India",
+                "date": "2 dagen geleden",
+                "duration": 8.55
+            },
+            {
+                "title": "A New Error",
+                "artist": "Moderat",
+                "album": "Moderat",
+                "date": "2 dagen geleden",
+                "duration": 6.07
+            },
+            {
+                "title": "Xtal",
+                "artist": "Aphex Twin",
+                "album": "Selected Ambient Works 85-92",
+                "date": "2 dagen geleden",
+                "duration": 4.53
+            },
+            {
+                "title": "Return to Oz - ARTBAT Remix",
+                "artist": "Monolink, ARTBAT",
+                "album": "Return to Oz(ARTBAT Remix)",
+                "date": "2 dagen geleden",
+                "duration": 8.00
+            },
+            {
+                "title": "The Sign",
+                "artist": "CamelPhat, Anyma",
+                "album": "The Sign",
+                "date": "1 dagen geleden",
+                "duration": 3.33
+            },
+            {
+                "title": "Dance With Me",
+                "artist": "Kevin de Vries",
+                "album": "Dance With Me EP",
+                "date": "1 dagen geleden",
+                "duration": 6.31
+            }
+        ]
+    }
+]
