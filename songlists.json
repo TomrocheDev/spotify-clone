@@ -1,47 +1,54 @@
 [
     {
-        "Coding": [
+        "Playlist-name": "Coding",
+        "songlist": [
             {
                 "title": "India",
                 "artist": "EarthLife",
                 "album": "India",
                 "date": "2 dagen geleden",
-                "duration": 8.55
+                "duration": 8.55,
+                "image": "https://i1.sndcdn.com/artworks-000518920959-5ug5ux-t500x500.jpg"
             },
             {
                 "title": "A New Error",
                 "artist": "Moderat",
                 "album": "Moderat",
                 "date": "2 dagen geleden",
-                "duration": 6.07
+                "duration": 6.07,
+                "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Moderat_cover1.jpg"
             },
             {
                 "title": "Xtal",
                 "artist": "Aphex Twin",
                 "album": "Selected Ambient Works 85-92",
                 "date": "2 dagen geleden",
-                "duration": 4.53
+                "duration": 4.53,
+                "image": "https://media.s-bol.com/n5yRJNxlGkYR/1200x1200.jpg"
             },
             {
                 "title": "Return to Oz - ARTBAT Remix",
                 "artist": "Monolink, ARTBAT",
                 "album": "Return to Oz(ARTBAT Remix)",
                 "date": "2 dagen geleden",
-                "duration": 8.00
+                "duration": 8.00,
+                "image": "https://i1.sndcdn.com/artworks-tEXqXo4SboAF-0-t500x500.jpg"
             },
             {
                 "title": "The Sign",
                 "artist": "CamelPhat, Anyma",
                 "album": "The Sign",
                 "date": "1 dagen geleden",
-                "duration": 3.33
+                "duration": 3.33,
+                "image": "https://i1.sndcdn.com/artworks-PgWVQmiofz68xpcU-MaSEPw-t500x500.jpg"
             },
             {
                 "title": "Dance With Me",
                 "artist": "Kevin de Vries",
                 "album": "Dance With Me EP",
                 "date": "1 dagen geleden",
-                "duration": 6.31
+                "duration": 6.31,
+                "image": "https://www.recordsonvinyl.nl/cdn/shop/products/a1988970393_10_1024x1024.jpg?v=1668030493"
             }
         ]
     }

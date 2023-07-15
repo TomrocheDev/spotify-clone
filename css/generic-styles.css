@@ -17,6 +17,16 @@
     font-family: "Montserrat", sans-serif;
 }
 
+::-webkit-scrollbar {
+    background-color: transparent;
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
 body {
     background-color: black;
     width: 100vw;
@@ -48,6 +58,7 @@ main {
     background-color: #121212;
     padding: 1.2rem 1.6rem;
     border-radius: 8px;
+    overflow-y: auto;
 }
 
 #playlist-navigation {

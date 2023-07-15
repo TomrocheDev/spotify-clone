@@ -71,7 +71,9 @@
                 </div>
 
                 <div class="flex-col" id="user-playlist-list">
-                    <div class="playlist-tile hover-light">
+                    <div
+                        class="playlist-tile hover-light"
+                        onclick="renderTemplate(createTemplate(coding), 0, '#0054a3')">
                         <div class="playlist-tile-image">
                             <img
                                 src="https://i1.sndcdn.com/artworks-000518920959-5ug5ux-t500x500.jpg"
@@ -142,81 +144,13 @@
                 </div>
             </div>
 
-            <div
-                class="main-grid-component"
-                id="main-content"
-                style="background: linear-gradient(180deg, rgb(21, 147, 185), #121212 35rem)">
-                <div id="main-header-section">
-                    <div class="main-header-buttons">
-                        <div class="back-and-forward-buttons">
-                            <i class="fa-solid fa-chevron-left button"></i>
-                            <i class="fa-solid fa-chevron-right button"></i>
-                        </div>
-                        <div class="download-and-profile-buttons">
-                            <div id="download-app-button">
-                                <span class="button">
-                                    <i class="fa-regular fa-circle-down"></i>
-                                    De app installeren
-                                </span>
-                            </div>
-                            <div id="profile-button">
-                                <span class="button">
-                                    <i class="fa-regular fa-user"></i>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="header-playlist-details">
-                        <div id="playlist-image-container">
-                            <img
-                                src="https://i1.sndcdn.com/artworks-000518920959-5ug5ux-t500x500.jpg"
-                                alt="Playlist cover" />
-                        </div>
-                        <div id="header-playlist-titles">
-                            <div id="playlist-type">
-                                <span style="font-size: var(--font-xs-small); font-weight: 600"
-                                    >Playlist</span
-                                >
-                            </div>
-                            <h1 id="playlist-title">Coding</h1>
-                            <div id="playlist-duration">
-                                <span>FictionalUsername</span>
-                                <i class="fa-solid fa-circle" style="font-size: 6px"></i>
-                                <span>4 nummers, </span>
-                                <span style="color: var(--inactive)">27 min. 56 sec</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header-play-and-settings">
-                        <div id="header-play-button">
-                            <i class="fa-solid fa-play"></i>
-                        </div>
-                        <div id="header-settings-button">
-                            <i class="fa-solid fa-ellipsis button"></i>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="playlist-container">
-                    <table id="playlist-table">
-                        <thead>
-                            <th style="width: 2%; padding-left: 1rem">#</th>
-                            <th style="width: 40%; padding-left: 10px">Titel</th>
-                            <th style="width: 25%">Album</th>
-                            <th>Datum toegevoegd</th>
-                            <th style="padding-right: 1.5rem">
-                                <i class="fa-regular fa-clock"></i>
-                            </th>
-                        </thead>
-                        <tbody id="playlist-tracklist"></tbody>
-                    </table>
-                </div>
-            </div>
+            <div class="main-grid-component" id="main-content"></div>
 
             <div id="music-player"></div>
         </main>
 
         <!-- scripts -->
-        <script src="javascript/data-handling.js"></script>
+        <script src="scripts/coding.js"></script>
+        <script src="scripts/data-handling.js"></script>
     </body>
 </html>
