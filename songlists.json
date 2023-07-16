@@ -292,5 +292,96 @@
                 "image": "https://media.s-bol.com/nz46mYLMJKYW/550x550.jpg"
             }
         ]
+    },
+    {
+        "playlist-name": "Blues",
+        "songlist": [
+            {
+                "title": "The Mist of Time",
+                "artist": "John Mayhall & The Bluesbreakers",
+                "album": "Stories",
+                "date": "16 aug 2022",
+                "duration": 7.56,
+                "image": "https://media.s-bol.com/grr1D14vj5r/550x552.jpg"
+            },
+            {
+                "title": "The Bluest Blues - Remastered",
+                "artist": "Alvin Lee",
+                "album": "The Anthology (Remastered)",
+                "date": "16 aug 2022",
+                "duration": 7.26,
+                "image": "https://media.s-bol.com/qlErkq1RjGnp/550x544.jpg"
+            },
+            {
+                "title": "Blue Clouds",
+                "artist": "Gregor Hilden",
+                "album": "Blue in Red",
+                "date": "22 aug 2022",
+                "duration": 4.30,
+                "image": "https://media.s-bol.com/gQVXpkn5ojPl/jMGAGW/550x496.jpg"
+            }
+        ],
+        "suggested": [
+            {
+                "title": "Midnight Blues",
+                "artist": "Snowy White",
+                "Album": "After Paradise",
+                "image": "https://m.media-amazon.com/images/I/51xeM2JDSAL.__AC_SX300_SY300_QL70_ML2_.jpg"
+            },
+            {
+                "title": "Headful of Blues",
+                "artist": "Snowy White, The White Flames",
+                "Album": "Reunited",
+                "image": "https://media.s-bol.com/l2yyB7Norp76/550x550.jpg"
+            },
+            {
+                "title": "You're Gonna Look Good in Blues",
+                "artist": "Tony Joe White",
+                "Album": "Closer to the Truth",
+                "image": "https://media.s-bol.com/31RBEoyyL3vx/550x550.jpg"
+            },
+            {
+                "title": "Drive",
+                "artist": "Joe Bonamassa",
+                "Album": "Blues of Desperation",
+                "image": "https://i1.sndcdn.com/artworks-000143811055-rq53vy-t500x500.jpg"
+            },
+            {
+                "title": "Blues for J",
+                "artist": "Julian Sas",
+                "Album": "For the Lost and Found",
+                "image": "https://media.s-bol.com/N5xNQwgLO0np/D9kE5Yq/550x583.jpg"
+            },
+            {
+                "title": "Need Her So Bad",
+                "artist": "Aynsley Lister",
+                "Album": "Everything I Need",
+                "image": "https://media.s-bol.com/m633OjkOZxwE/VERwNB/550x555.jpg"
+            },
+            {
+                "title": "Motel Blues - Remastered",
+                "artist": "Alvin Lee",
+                "Album": "Saguitar (Remastered)",
+                "image": "https://m.media-amazon.com/images/I/51OkOiat+pL._SX425_.jpg"
+            },
+            {
+                "title": "Out Of Reach",
+                "artist": "John Mayhall & The Bluesbreakers",
+                "Album": "A Hard Road (Deluxe Edition)",
+                "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Bluesbreakers-1.jpg"
+            },
+            {
+                "title": "Do You Believe in Love",
+                "artist": "Vargas Blues Band",
+                "Album": "Blues Latino (20th Aniversary)",
+                "image": "https://m.media-amazon.com/images/I/51k3lBbUQGL._SX425_.jpg"
+            },
+            {
+                "title": "Slabo Day",
+                "artist": "Peter Green",
+                "Album": "In the Skies",
+                "image": "https://media.s-bol.com/AMLoRKn78wwB/550x550.jpg"
+            }
+        ]
     }
 ]

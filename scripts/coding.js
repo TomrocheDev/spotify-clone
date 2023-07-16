@@ -36,8 +36,8 @@ let coding = `
                     <div id="playlist-duration">
                         <span>FictionalUsername</span>
                         <i class="fa-solid fa-circle" style="font-size: 6px"></i>
-                        <span>4 nummers, </span>
-                        <span style="color: var(--inactive)">27 min. 56 sec</span>
+                        <span>6 nummers, </span>
+                        <span style="color: var(--inactive)">37 min. 59 sec</span>
                     </div>
                 </div>
             </div>

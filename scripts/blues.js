@@ -1,4 +1,4 @@
-let southernVibes = `
+let blues = `
 <div>
     <div id="main-header-section">
         <div class="main-header-buttons">
@@ -23,7 +23,7 @@ let southernVibes = `
         <div id="header-playlist-details">
             <div id="playlist-image-container">
                 <img
-                    src="https://i.scdn.co/image/ab67706f00000002cb8129ff94997273c8f10904"
+                    src="https://i.scdn.co/image/ab67706f00000002053676e87d17a88e7da65b56"
                     alt="Playlist cover" />
             </div>
             <div id="header-playlist-titles">
@@ -32,12 +32,12 @@ let southernVibes = `
                         >Playlist</span
                     >
                 </div>
-                <h1 id="playlist-title">Southern Vibes</h1>
+                <h1 id="playlist-title">Blues</h1>
                 <div id="playlist-duration">
                     <span>FictionalUsername</span>
                     <i class="fa-solid fa-circle" style="font-size: 6px"></i>
-                    <span>14 nummers, </span>
-                    <span style="color: var(--inactive)">55 min. 56 sec</span>
+                    <span>3 nummers, </span>
+                    <span style="color: var(--inactive)">19 min. 52 sec</span>
                 </div>
             </div>
         </div>
