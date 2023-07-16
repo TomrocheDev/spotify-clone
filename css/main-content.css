@@ -122,6 +122,7 @@
 
 .playlist-song-container {
     flex-direction: column;
+    margin-bottom: 3rem;
 }
 
 .playlist-header-element,
@@ -174,4 +175,75 @@
 
 .songlist-song-artist {
     font-size: var(--font-xs-small);
+}
+
+/* Suggested songs */
+#suggested-songlist {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5rem;
+}
+
+.suggested-song {
+    padding: 0.5rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.suggested-song:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.suggested-song-image {
+    width: 40px;
+    height: 40px;
+}
+
+.suggested-song-image img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.suggested-song-titles {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 55%;
+}
+
+.suggested-song-title-and-artist {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.suggested-song-title {
+    color: var(--white);
+    font-size: var(--font-med);
+}
+
+.suggested-song-artist,
+.suggested-song-album,
+.add-button {
+    font-size: var(--font-xs-small);
+}
+
+.suggested-song-album {
+    width: 35%;
+}
+
+.add-song-button {
+    padding: 0.3rem 1rem;
+    border: 1px solid var(--inactive);
+    border-radius: 20px;
+    color: white;
+    width: 10%;
+}
+
+.add-song-button:hover {
+    border: 1px solid white;
+    transform: scale(1.03);
 }

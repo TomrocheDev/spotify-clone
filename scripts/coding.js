@@ -65,6 +65,14 @@ let coding = `
             <hr style="border: none; border-bottom: 1px solid rgba(255, 255, 255, 0.137); margin-bottom: 1.2rem" />
 
             <div class="playlist-song-container"></div>
+
+            <div class="suggested-songs-container">
+                <div class="suggested-songs-header">
+                    <h3>Aanbevolen</h3>
+                    <p>Gebasseerd op de inhoud van deze playlist</p>
+                </div>
+                <div id="suggested-songlist"></div>
+            </div>
         </div>
     </div>
 `;
