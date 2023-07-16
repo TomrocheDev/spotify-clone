@@ -1,6 +1,6 @@
 [
     {
-        "Playlist-name": "Coding",
+        "playlist-name": "Coding",
         "songlist": [
             {
                 "title": "India",
@@ -111,6 +111,185 @@
                 "artist": "Christoph, FEMME",
                 "album": "8-track",
                 "image": "https://i1.sndcdn.com/artworks-c9qsaepiT3tk-0-t500x500.jpg"
+            }
+        ]
+    },
+    {
+        "playlist-name": "Southern Vibes",
+        "songlist": [
+            {
+                "title": "Lady May",
+                "artist": "Tyler Childers",
+                "album": "Purgatory",
+                "date": "16 aug 2022",
+                "duration": 3.03,
+                "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Tyler_Childers_-_Purgatory.png"
+            },
+            {
+                "title": "Nose On The Grindstone (OurVinyl Sessions)",
+                "artist": "Tyler Childers",
+                "album": "Tyler Childers | OurVinyl Sessions",
+                "date": "16 aug 2022",
+                "duration": 3.24,
+                "image": "https://f4.bcbits.com/img/a3119592519_10.jpg"
+            },
+            {
+                "title": "I Don't Mind",
+                "artist": "Sturgill Simpson",
+                "album": "Cuttin' Grass - Vol. 1",
+                "date": "16 aug 2022",
+                "duration": 4.29,
+                "image": "https://media.pitchfork.com/photos/5f8da936e6fc05c7f21c73ca/1:1/w_600/cuttin%20grass%20vol%201_sturgill%20simpson.jpg"
+            },
+            {
+                "title": "Maggie's Song",
+                "artist": "Chris Stapleton",
+                "album": "Starting Over",
+                "date": "16 aug 2022",
+                "duration": 3.31,
+                "image": "https://media.s-bol.com/KA488Lg7ZDWl/8AkmVW/550x550.jpg"
+            },
+            {
+                "title": "Rock Salt and Nails (Live)",
+                "artist": "Tyler Childers",
+                "album": "Live on Red Barn Radio I & II",
+                "date": "2 sep 2022",
+                "duration": 3.14,
+                "image": "https://media.s-bol.com/4pB3jv0mWpg/8qpMyxL/550x550.jpg"
+            },
+            {
+                "title": "Starting Over",
+                "artist": "Chris Stapleton",
+                "album": "Starting Over",
+                "date": "2 sep 2022",
+                "duration": 4.00,
+                "image": "https://media.s-bol.com/KA488Lg7ZDWl/8AkmVW/550x550.jpg"
+            },
+            {
+                "title": "Blackbird Song",
+                "artist": "Lee DeWyze",
+                "album": "Blackbird Song",
+                "date": "1 okt 2022",
+                "duration": 4.14,
+                "image": "https://i1.sndcdn.com/artworks-OwGb0QkWopo009cI-gJPQ7g-t500x500.jpg"
+            },
+            {
+                "title": "Feathered Indians",
+                "artist": "Tyler Childers",
+                "album": "Purgatory",
+                "date": "6 nov 2022",
+                "duration": 3.44,
+                "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Tyler_Childers_-_Purgatory.png"
+            },
+            {
+                "title": "Stone",
+                "artist": "Whiskey Myers",
+                "album": "Mud",
+                "date": "6 nov 2022",
+                "duration": 5.35,
+                "image": "https://media.s-bol.com/n71kwl3mw27E/MgMYgG/550x550.jpg"
+            },
+            {
+                "title": "Broken Window Serenade",
+                "artist": "Whiskey Myers",
+                "album": "Firewater",
+                "date": "31 mrt 2023",
+                "duration": 5.46,
+                "image": "https://media.s-bol.com/nz46mYLMJKYW/550x550.jpg"
+            },
+            {
+                "title": "Trailer We Call Home",
+                "artist": "Whiskey Myers",
+                "album": "Mud",
+                "date": "31 mrt 2023",
+                "duration": 3.39,
+                "image": "https://media.s-bol.com/n71kwl3mw27E/MgMYgG/550x550.jpg"
+            },
+            {
+                "title": "You Can Have The Crown",
+                "artist": "Sturgill Simpson",
+                "album": "High Top Mountain",
+                "date": "28 apr 2023",
+                "duration": 2.50,
+                "image": "https://m.media-amazon.com/images/I/81QKG0CMODL._UF1000,1000_QL80_.jpg"
+            },
+            {
+                "title": "Whitehouse Road",
+                "artist": "Tyler Childers",
+                "album": "Purgatory",
+                "date": "1 mei 2023",
+                "duration": 4.40,
+                "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Tyler_Childers_-_Purgatory.png"
+            },
+            {
+                "title": "Ballad Of A Southern Man",
+                "artist": "Whiskey Myers",
+                "album": "Firewater",
+                "date": "3 dagen geleden",
+                "duration": 3.40,
+                "image": "https://media.s-bol.com/nz46mYLMJKYW/550x550.jpg"
+            }
+        ],
+        "suggested": [
+            {
+                "title": "Follow You To Vergie (OurVinyl Sessions)",
+                "artist": "Tyler Childers, OurVinyl",
+                "album": "Tyler Childers | OurVinyl Sessions",
+                "image": "https://f4.bcbits.com/img/a3119592519_10.jpg"
+            },
+            {
+                "title": "Keep The Wolves Away",
+                "artist": "Uncle Lucius",
+                "album": "And You Are Me",
+                "image": "https://m.media-amazon.com/images/I/71sCGT9pvXL.jpg"
+            },
+            {
+                "title": "Where Rainbows Never Die",
+                "artist": "The Steeldrivers",
+                "album": "Reckless",
+                "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_SteelDrivers_-_Reckless_Cover.jpg"
+            },
+            {
+                "title": "Southside Of Heaven",
+                "artist": "Ryan Bingham",
+                "album": "Mescalito",
+                "image": "https://m.media-amazon.com/images/I/41jHTtV8yPL._UF1000,1000_QL80_.jpg"
+            },
+            {
+                "title": "Universal Sound",
+                "artist": "Tyler Childers",
+                "album": "Purgatory",
+                "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Tyler_Childers_-_Purgatory.png"
+            },
+            {
+                "title": "Whitehouse Road (OurVinyl Sessions)",
+                "artist": "Tyler Childers, OurVinyl",
+                "album": "Tyler Childers | OurVinyl Sessions",
+                "image": "https://f4.bcbits.com/img/a3119592519_10.jpg"
+            },
+            {
+                "title": "Hellelujah",
+                "artist": "Ryan Bingham",
+                "album": "Junky Star",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/RB_Junky_Star.jpg"
+            },
+            {
+                "title": "Hippies and Cowboys",
+                "artist": "Cody Jinks",
+                "album": "Less Wise",
+                "image": "https://media.s-bol.com/LXnrO9zvm2W/550x550.jpg"
+            },
+            {
+                "title": "Bury My Bones",
+                "artist": "Whiskey Myers",
+                "album": "Whiskey Myers",
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Whiskey-Myers-album-by-Whiskey-Myers.jpg"
+            },
+            {
+                "title": "Virginia",
+                "artist": "Whiskey Myers",
+                "album": "Firewater",
+                "image": "https://media.s-bol.com/nz46mYLMJKYW/550x550.jpg"
             }
         ]
     }
