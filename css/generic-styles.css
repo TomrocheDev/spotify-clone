@@ -41,6 +41,10 @@ h1 {
     margin-bottom: 1rem;
 }
 
+h2 {
+    font-size: 1.7rem;
+}
+
 h3 {
     color: var(--white);
     padding-bottom: 0.5rem;
@@ -48,6 +52,16 @@ h3 {
 
 p {
     font-size: var(--font-xs-small);
+}
+
+a {
+    text-decoration: none;
+    color: var(--inactive);
+    transform: 400ms ease;
+}
+
+a:hover {
+    color: var(--white);
 }
 
 main {

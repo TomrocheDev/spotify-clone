@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <!-- stylesheets -->
+        <link rel="stylesheet" href="css/index.css" />
         <link rel="stylesheet" href="css/generic-styles.css" />
         <link rel="stylesheet" href="css/top-navigation.css" />
         <link rel="stylesheet" href="css/bottom-navigation.css" />
@@ -29,7 +30,9 @@
             <div class="main-grid-component flex-col" id="top-navigation">
                 <div class="top-navigation-button button">
                     <i class="fa-solid fa-house"></i>
-                    <span>Home</span>
+                    <span>
+                        <a href="index.html" class="button">Home</a>
+                    </span>
                 </div>
                 <div class="top-navigation-button button">
                     <i class="fa-solid fa-magnifying-glass"></i>
@@ -148,7 +151,131 @@
                 </div>
             </div>
 
-            <div class="main-grid-component" id="main-content"></div>
+            <div
+                class="main-grid-component"
+                id="main-content"
+                style="background: linear-gradient(180deg, rgba(19, 236, 252, 0.35), #121212 50vh)">
+                <!--! THIS IS A TEMPLATE -->
+                <div>
+                    <div id="main-header-section">
+                        <div class="main-header-buttons">
+                            <div class="back-and-forward-buttons">
+                                <i class="fa-solid fa-chevron-left button"></i>
+                                <i class="fa-solid fa-chevron-right button"></i>
+                            </div>
+                            <div class="download-and-profile-buttons">
+                                <div id="download-app-button">
+                                    <span class="button">
+                                        <i class="fa-regular fa-circle-down"></i>
+                                        De app installeren
+                                    </span>
+                                </div>
+                                <div id="profile-button">
+                                    <span class="button">
+                                        <i class="fa-regular fa-user"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="index-main-playlist-tiles">
+                    <h2>Goedenavond</h2>
+                    <div id="index-main-playlist-tile-container">
+                        <div class="main-playlist-tile" id="southern-vibes">
+                            <div class="main-playlist-tile-image">
+                                <img
+                                    src="https://i.scdn.co/image/ab67706f00000002cb8129ff94997273c8f10904"
+                                    alt="playlist-cover" />
+                            </div>
+                            <div class="main-playlist-tile-title">
+                                <span>Southern Vibes</span>
+                            </div>
+                            <div class="main-playlist-playbutton">
+                                <div class="playlist-playbutton">
+                                    <i class="fa-solid fa-play" style="margin-left: 2px"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main-playlist-tile">
+                            <div class="main-playlist-tile-image">
+                                <img
+                                    src="https://i1.sndcdn.com/artworks-000518920959-5ug5ux-t500x500.jpg"
+                                    alt="playlist-cover" />
+                            </div>
+                            <div class="main-playlist-tile-title">
+                                <span>Coding</span>
+                            </div>
+                            <div class="main-playlist-playbutton">
+                                <div class="playlist-playbutton">
+                                    <i class="fa-solid fa-play" style="margin-left: 2px"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main-playlist-tile">
+                            <div class="main-playlist-tile-image">
+                                <img
+                                    src="https://i.scdn.co/image/ab67706c0000da8461ad465c1b547f0f58f712ef"
+                                    alt="playlist-cover" />
+                            </div>
+                            <div class="main-playlist-tile-title">
+                                <span>Chillout</span>
+                            </div>
+                            <div class="main-playlist-playbutton">
+                                <div class="playlist-playbutton">
+                                    <i class="fa-solid fa-play" style="margin-left: 2px"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main-playlist-tile">
+                            <div class="main-playlist-tile-image">
+                                <img
+                                    src="https://m.media-amazon.com/images/I/613ReiIy03L._UF1000,1000_QL80_.jpg"
+                                    alt="playlist-cover" />
+                            </div>
+                            <div class="main-playlist-tile-title">
+                                <span>Machine Head (Remastered)</span>
+                            </div>
+                            <div class="main-playlist-playbutton">
+                                <div class="playlist-playbutton">
+                                    <i class="fa-solid fa-play" style="margin-left: 2px"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main-playlist-tile">
+                            <div class="main-playlist-tile-image">
+                                <img
+                                    src="https://i.scdn.co/image/ab67706f00000002053676e87d17a88e7da65b56"
+                                    alt="playlist-cover" />
+                            </div>
+                            <div class="main-playlist-tile-title">
+                                <span>Blues</span>
+                            </div>
+                            <div class="main-playlist-playbutton">
+                                <div class="playlist-playbutton">
+                                    <i class="fa-solid fa-play" style="margin-left: 2px"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main-playlist-tile">
+                            <div class="main-playlist-tile-image">
+                                <img
+                                    src="https://classicsdujour.com/wp-content/uploads/2016/03/led-zeppelin-cover.jpg"
+                                    alt="playlist-cover" />
+                            </div>
+                            <div class="main-playlist-tile-title">
+                                <span>Classic Rock</span>
+                            </div>
+                            <div class="main-playlist-playbutton">
+                                <div class="playlist-playbutton">
+                                    <i class="fa-solid fa-play" style="margin-left: 2px"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--! THIS IS A TEMPLATE -->
+            </div>
 
             <div id="music-player"></div>
         </main>
