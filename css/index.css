@@ -8,6 +8,7 @@
     flex-wrap: wrap;
     gap: 1rem;
     margin-top: 1.7rem;
+    margin-bottom: 4rem;
 }
 
 .main-playlist-tile {
@@ -26,8 +27,9 @@
 }
 
 .main-playlist-tile-image {
-    height: 4rem;
+    height: 5rem;
     width: 20%;
+    margin-right: 1rem;
 }
 
 .main-playlist-tile-image img {
@@ -48,7 +50,7 @@
 
 .main-playlist-playbutton {
     width: 15%;
-    height: 68%;
+    height: 51%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,4 +68,54 @@
 
 .main-playlist-tile:hover > .main-playlist-playbutton {
     opacity: 1;
+}
+
+/* index episodes section */
+#main-index-episodes-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.main-index-episode-tile {
+    width: 18%;
+    background-color: rgba(255, 255, 255, 0.02);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 1rem 2rem;
+    transition: 200ms ease;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    position: relative;
+}
+.main-index-episode-tile:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.main-episode-tile-image {
+    width: 100%;
+}
+
+.main-episode-image-small {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 5%;
+    top: 52%;
+}
+
+.main-episode-tile-image img,
+.main-episode-image-small img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.main-episode-tile-titles span {
+    font-size: 11px;
+    color: var(--inactive);
 }
