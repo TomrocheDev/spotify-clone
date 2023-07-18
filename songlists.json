@@ -383,5 +383,360 @@
                 "image": "https://media.s-bol.com/AMLoRKn78wwB/550x550.jpg"
             }
         ]
+    },
+    {
+        "playlist-name": "Classic Rock",
+        "songlist": [
+            {
+                "title": "Call Me the Breeze",
+                "artist": "Lynyrd Skynyrd",
+                "album": "Second Helping (Expanded Edition)",
+                "date": "16 aug 2022",
+                "duration": 5.09,
+                "image": "https://media.s-bol.com/51N5D50r61mZ/1q25yG/550x567.jpg"
+            },
+            {
+                "title": "Flirtin' with Disaster",
+                "artist": "Molly Hatchet",
+                "album": "Flirtin' with Disaster",
+                "date": "16 aug 2022",
+                "duration": 4.59,
+                "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Molly_Hatchet_-_Flirtin%27_with_Disaster.jpg"
+            },
+            {
+                "title": "Ramblin' Man",
+                "artist": "Allman Brothers Band",
+                "album": "Dreams",
+                "date": "16 aug 2022",
+                "duration": 4.48,
+                "image": "https://upload.wikimedia.org/wikipedia/en/7/72/AllmansDreamsCover.jpg"
+            },
+            {
+                "title": "Frankenstein",
+                "artist": "The Edgar Winter Group",
+                "album": "They Only Come Out At Night",
+                "date": "16 aug 2022",
+                "duration": 4.44,
+                "image": "https://m.media-amazon.com/images/I/71BnbEM62RL._AC_SX522_.jpg"
+            },
+            {
+                "title": "It's A Long Way There - 2010 Digital Remaster",
+                "artist": "Little River Band",
+                "album": "Little River Band (2010 Remaster)",
+                "date": "16 aug 2022",
+                "duration": 8.44,
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/LittleRiverBand.jpg/220px-LittleRiverBand.jpg"
+            },
+            {
+                "title": "Green Grass & High Tides",
+                "artist": "The Outlaws",
+                "album": "The Outlaws",
+                "date": "16 aug 2022",
+                "duration": 9.51,
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/The_Outlaw_-_Outlaws.jpg"
+            },
+            {
+                "title": "Whipping Post",
+                "artist": "Allman Brothers Band",
+                "album": "The Allmans Brothers Band (Deluxe)",
+                "date": "16 aug 2022",
+                "duration": 5.17,
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/TheAllmanBrothersBandTheAllmanBrothersBand.jpg/220px-TheAllmanBrothersBandTheAllmanBrothersBand.jpg"
+            },
+            {
+                "title": "Jet Airliner",
+                "artist": "Steve Miller Band",
+                "album": "Book Of Dreams",
+                "date": "16 aug 2022",
+                "duration": 4.25,
+                "image": "https://www.musiccollections.nl/wp-content/uploads/2020/10/DSC_0327-1-768x772.jpg"
+            },
+            {
+                "title": "Sausalito Summernight",
+                "artist": "Diesel",
+                "album": "On The Rocks",
+                "date": "16 aug 2022",
+                "duration": 5.09,
+                "image": "https://i1.sndcdn.com/artworks-4VHxmwZsOwl0-0-t500x500.png"
+            },
+            {
+                "title": "Can't Get Enough - 2015 Remaster",
+                "artist": "Bad Company",
+                "album": "Bad Company (Deluxe)",
+                "date": "16 aug 2022",
+                "duration": 4.19,
+                "image": "https://media.s-bol.com/66mGwkj2PyqN/550x539.jpg"
+            },
+            {
+                "title": "Take the Highway",
+                "artist": "The Marshall Tucker Band",
+                "album": "The Marshall Tucker Band",
+                "date": "16 aug 2022",
+                "duration": 6.15,
+                "image": "https://upload.wikimedia.org/wikipedia/en/7/74/MTB_1973.jpg"
+            },
+            {
+                "title": "Take The Money And Run",
+                "artist": "Steve Miller Band",
+                "album": "Fly Like An Eagle",
+                "date": "16 aug 2022",
+                "duration": 2.50,
+                "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Steve_Miller_Band_Fly_Like_an_Eagle.jpg"
+            },
+            {
+                "title": "Godzilla",
+                "artist": "Blue Öyster Cult",
+                "album": "Spectres",
+                "date": "16 aug 2022",
+                "duration": 4.41,
+                "image": "https://upload.wikimedia.org/wikipedia/en/2/25/BlueOysterCultSpectres.jpg"
+            },
+            {
+                "title": "Jessica",
+                "artist": "Allman Brothers Band",
+                "album": "Dreams",
+                "date": "19 aug 2022",
+                "duration": 7.30,
+                "image": "https://upload.wikimedia.org/wikipedia/en/7/72/AllmansDreamsCover.jpg"
+            },
+            {
+                "title": "Hard To Handle",
+                "artist": "The Black Crowes",
+                "album": "Shake Your Money Maker",
+                "date": "19 aug 2022",
+                "duration": 3.08,
+                "image": "https://upload.wikimedia.org/wikipedia/en/9/95/The_Black_Crowes_-_Shake_Your_Money_Maker.png"
+            },
+            {
+                "title": "Nights In White Satin - Single Version",
+                "artist": "The Moody Blues",
+                "album": "Days Of Future Passed (Deluxe Version)",
+                "date": "21 aug 2022",
+                "duration": 4.29,
+                "image": "https://media.s-bol.com/N7v7VXoNn2W6/NjNQAp/1200x1200.jpg"
+            },
+            {
+                "title": "The Way It Is",
+                "artist": "Bruce Hornsby, The Range",
+                "album": "The Way It Is",
+                "date": "21 aug 2022",
+                "duration": 4.57,
+                "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_way_it_is_hornsby.jpg"
+            },
+            {
+                "title": "The Needle And The Spoon",
+                "artist": "Lynyrd Skynyrd",
+                "album": "Second Helping (Expanded Edition)",
+                "date": "26 aug 2022",
+                "duration": 3.53,
+                "image": "https://media.s-bol.com/51N5D50r61mZ/1q25yG/550x567.jpg"
+            },
+            {
+                "title": "The Weight",
+                "artist": "The Band",
+                "album": "Music From Big Pink (Remastered)",
+                "date": "1 okt 2022",
+                "duration": 4.34,
+                "image": "https://media.s-bol.com/3BqN2AZ19Y9/550x548.jpg"
+            },
+            {
+                "title": "Rock Bottom - 2007 Remaster",
+                "artist": "UFO",
+                "album": "Phenomenon (2007 Remaster)",
+                "date": "17 nov 2022",
+                "duration": 6.29,
+                "image": "https://media.s-bol.com/58MAjWo29lkK/550x550.jpg"
+            },
+            {
+                "title": "Reelin' In The Years",
+                "artist": "Steely Dan",
+                "album": "Can't Buy A Thrill",
+                "date": "18 nov 2022",
+                "duration": 4.37,
+                "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Cant_buy_a_tcant_buy_a_thrill.jpg"
+            },
+            {
+                "title": "That Smell",
+                "artist": "Lynyrd Skynyrd",
+                "album": "Street Survivors",
+                "date": "8 dec 2022",
+                "duration": 5.48,
+                "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/StreetSurvivorsFlames.jpg"
+            },
+            {
+                "title": "I Know A Little",
+                "artist": "Lynyrd Skynyrd",
+                "album": "Street Survivors",
+                "date": "8 dec 2022",
+                "duration": 3.27,
+                "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/StreetSurvivorsFlames.jpg"
+            },
+            {
+                "title": "Do It Again",
+                "artist": "Steely Dan",
+                "album": "Can't Buy A Thrill",
+                "date": "8 dec 2022",
+                "duration": 5.57,
+                "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Cant_buy_a_tcant_buy_a_thrill.jpg"
+            },
+            {
+                "title": "Josie",
+                "artist": "Steely Dan",
+                "album": "Aja",
+                "date": "8 dec 2022",
+                "duration": 4.30,
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Aja_album_cover.jpg"
+            },
+            {
+                "title": "Peg",
+                "artist": "Steely Dan",
+                "album": "Aja",
+                "date": "19 dec 2022",
+                "duration": 4.00,
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Aja_album_cover.jpg"
+            },
+            {
+                "title": "25 or 6 to 4 - 2002 Remaster",
+                "artist": "Chicago",
+                "album": "Chicago II",
+                "date": "10 feb 2022",
+                "duration": 4.49,
+                "image": "https://media.s-bol.com/g5x8qrmpOBn9/550x489.jpg"
+            },
+            {
+                "title": "Ace of Spades",
+                "artist": "Motörhead",
+                "album": "Ace of Spades (Expanded Edition)",
+                "date": "16 feb 2023",
+                "duration": 2.46,
+                "image": "https://media.s-bol.com/ojBPmvlo2Y4N/1177x1200.jpg"
+            },
+            {
+                "title": "High Hopes - 2011 Remaster",
+                "artist": "Pink Floyd",
+                "album": "The Division Bell (2011 Remastered Version)",
+                "date": "24 feb 2023",
+                "duration": 8.31,
+                "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Pink_Floyd_-_Division_Bell.jpg"
+            },
+            {
+                "title": "Running on Empty",
+                "artist": "Jackson Browne",
+                "album": "The Next Voice You Hear",
+                "date": "18 mrt 2023",
+                "duration": 4.58,
+                "image": "https://m.media-amazon.com/images/I/51Rj5hXN2gL._UF1000,1000_QL80_.jpg"
+            },
+            {
+                "title": "Hey Nineteen",
+                "artist": "Steely Dan",
+                "album": "Gaucho",
+                "date": "21 mrt 2023",
+                "duration": 5.07,
+                "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Steely_Dan_-_Gaucho.jpg"
+            },
+            {
+                "title": "Lazy - Remastered 2012",
+                "artist": "Deep Purple",
+                "album": "Machine Head (Remastered)",
+                "date": "31 mrt 2023",
+                "duration": 7.22,
+                "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Machine_Head_album_cover.jpg"
+            },
+            {
+                "title": "Highway Star - Remastered 2012",
+                "artist": "Deep Purple",
+                "album": "Machine Head (Remastered)",
+                "date": "31 mrt 2023",
+                "duration": 7.22,
+                "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Machine_Head_album_cover.jpg"
+            },
+            {
+                "title": "Smokin'",
+                "artist": "Boston",
+                "album": "Boston",
+                "date": "10 mei 2023",
+                "duration": 4.21,
+                "image": "https://upload.wikimedia.org/wikipedia/en/2/23/BostonBoston.jpg"
+            },
+            {
+                "title": "Black Betty",
+                "artist": "Ram Jam",
+                "album": "The Very Best Of Ram Jam",
+                "date": "1 week geleden",
+                "duration": 3.57,
+                "image": "https://media.s-bol.com/Vm5oqP0DNXVW/550x550.jpg"
+            },
+            {
+                "title": "Roundabout - 2003 Remaster",
+                "artist": "Yes",
+                "album": "Fragile (Deluxe Edition)",
+                "date": "5 dagen geleden",
+                "duration": 8.30,
+                "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Fragile_%28Yes_album%29_cover_art.jpg"
+            }
+        ],
+        "suggested": [
+            {
+                "title": "Fly Like An Eagle",
+                "artist": "Steve Miller Band",
+                "album": "Fly Like An Eagle",
+                "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Steve_Miller_Band_Fly_Like_an_Eagle.jpg"
+            },
+            {
+                "title": "Jane",
+                "artist": "Jefferson Starship",
+                "album": "Freedom At Point Zero",
+                "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/FreedomAtPointZero.jpg"
+            },
+            {
+                "title": "Free Ride",
+                "artist": "The Edgar Winter Group",
+                "album": "They Only Come Out At Night",
+                "image": "https://m.media-amazon.com/images/I/71BnbEM62RL._AC_SX522_.jpg"
+            },
+            {
+                "title": "American Woman",
+                "artist": "The Guess Who",
+                "album": "American Woman",
+                "image": "https://upload.wikimedia.org/wikipedia/en/7/79/American_Woman45.jpg"
+            },
+            {
+                "title": "Layla",
+                "artist": "Derek & The Dominos",
+                "album": "Layla And Other Assorted Love Songs",
+                "image": "https://media.s-bol.com/qjB8QGp4zRq0/550x429.jpg"
+            },
+            {
+                "title": "Born On The Bayou",
+                "artist": "Creedence Clearwater Revival",
+                "album": "Bayou Country (Expanded Edition)",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Creedence_Clearwater_Revival_-_Bayou_Country.jpg/220px-Creedence_Clearwater_Revival_-_Bayou_Country.jpg"
+            },
+            {
+                "title": "Breakdown",
+                "artist": "Tom Petty and the Heartbreakers",
+                "album": "Tom Petty & the Heartbreakers",
+                "image": "https://upload.wikimedia.org/wikipedia/en/0/07/TomPettyDebutCover.jpg"
+            },
+            {
+                "title": "Midnight Rider",
+                "artist": "Allman Brothers Band",
+                "album": "Idlewild South (Deluxe Edition Remastered)",
+                "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Idlewild_South_cover.jpg"
+            },
+            {
+                "title": "Rock'n Me",
+                "artist": "Steve Miller Band",
+                "album": "Fly Like An Eagle",
+                "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Steve_Miller_Band_Fly_Like_an_Eagle.jpg"
+            },
+            {
+                "title": "A Life of Illusion",
+                "artist": "Joe Walsh",
+                "album": "There Goes the Neighborhood",
+                "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Joe_Walsh_-_There_Goes_the_Neighborhood.jpg"
+            }
+        ]
     }
 ]
