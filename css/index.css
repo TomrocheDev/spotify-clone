@@ -119,3 +119,67 @@
     font-size: 11px;
     color: var(--inactive);
 }
+
+#main-footer {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#contact-table {
+    width: 80%;
+    font-size: var(--font-small);
+}
+
+#contact-table table {
+    text-align: left;
+}
+
+th {
+    color: var(--white);
+    width: 16%;
+    padding-bottom: 0.5rem;
+}
+
+td {
+    padding: 0.5rem 0;
+}
+
+#socials {
+    width: 20%;
+    display: flex;
+    gap: 1rem;
+    justify-content: end;
+}
+
+.social-icon {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+}
+
+.social-icon:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+#bottom-footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0 3rem;
+    font-size: var(--font-xs-small);
+}
+
+#footer-links {
+    display: flex;
+    gap: 1rem;
+}
+
+#trademark {
+    color: var(--white);
+}
