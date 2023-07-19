@@ -1,3 +1,132 @@
+/* Music Player */
 #music-player {
     grid-area: player;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--white);
+}
+
+.play-right-container,
+.play-music-player,
+.play-song-info {
+    height: 100%;
+}
+
+.play-song-info,
+.play-right-container {
+    width: 25%;
+}
+
+.play-song-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.play-song-info i:first-of-type {
+    margin: 0 0.3rem 0 1rem;
+}
+
+.play-song-image-container {
+    height: 80%;
+    padding: 0 0.5rem;
+}
+
+.play-song-image-container img {
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.play-song-title {
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.play-song-artist {
+    font-weight: 300;
+    font-size: 11px;
+}
+
+.play-music-player {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.music-player-buttons {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.music-player-buttons i {
+    font-size: 20px;
+}
+
+.music-player-buttons i.fa-circle-play {
+    font-size: 30px;
+}
+
+.music-player-buttons i.fa-shuffle,
+.music-player-buttons i.fa-repeat {
+    font-size: 18px;
+}
+
+.music-player-progressbar {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+
+.progressbar {
+    width: 85%;
+    display: flex;
+    align-items: center;
+}
+
+.progress-bg {
+    width: 100%;
+    height: 0.25rem;
+    background-color: rgb(87, 87, 87);
+    border-radius: 20px;
+}
+
+.progress-progress {
+    width: 68.85%;
+    height: 100%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.current-time-indicator,
+.duration-time-indicator {
+    width: 7.5%;
+    text-align: center;
+    font-size: 11px;
+}
+
+.play-right-container {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 1rem;
+    padding-right: 1rem;
+}
+
+.play-right-icon-container {
+    display: flex;
+    gap: 1rem;
+}
+
+.volume-range {
+    width: 6rem;
+    height: 0.25rem;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.842);
+    margin-left: -10px;
 }
