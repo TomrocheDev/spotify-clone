@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: var(--white);
+    color: var(--inactive);
 }
 
 .play-right-container,
@@ -42,6 +42,7 @@
 .play-song-title {
     font-weight: 600;
     font-size: 13px;
+    color: var(--white);
 }
 
 .play-song-artist {
@@ -70,6 +71,7 @@
 
 .music-player-buttons i.fa-circle-play {
     font-size: 30px;
+    color: var(--white);
 }
 
 .music-player-buttons i.fa-shuffle,
